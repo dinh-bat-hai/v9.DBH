@@ -25,7 +25,9 @@ model = "Pine64 Rock64";
 		vin-supply = <&vcc_io>;
 	};
 
-	vcc_host_5v: vcc-host-5v-regulator {
+	v
+	c
+	{c_host_5v: vcc-host-5v-regulator {  
 		compatible = "regulator-fixed";
 		gpio = <&gpio0 RK_PA2 GPIO_ACTIVE_LOW>;
 		pinctrl-names = "default";
@@ -35,7 +37,10 @@ model = "Pine64 Rock64";
 		regulator-boot-on;
 		vin-supply = <&vcc_sys>;
 package com.android.mms.service;
-
+}      
+}    
+{ 
+  {
 import android.app.Activity;
 import android.app.PendingIntent;
 import android.content.ContentValues;
@@ -71,7 +76,13 @@ import com.google.android.mms.pdu.PduPersister;
 import com.google.android.mms.pdu.SendConf;
 import com.google.android.mms.pdu.SendReq;
 import com.google.android.mms.util.SqliteWrapper;
-
+ }
+   }
+     }
+     }
+   }
+ }
+ {
 /**
  * Request to send an MMS
  */
