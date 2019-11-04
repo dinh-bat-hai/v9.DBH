@@ -36,7 +36,6 @@ model = "Pine64 Rock64";
 		regulator-always-on;
 		regulator-boot-on;
 		vin-supply = <&vcc_sys>;
-package com.android.mms.service;
 }      
 }    
 { 
@@ -83,12 +82,14 @@ import com.google.android.mms.util.SqliteWrapper;
    }
  }
  {
-/**
+
  * Request to send an MMS
  */
-public class SendRequest extends MmsRequest {
-    private final Uri mPduUri;
-    private byte[] mPduData;
+public class SendRequest extends MmsRequest 
+    v
+    a
+    e]  final Uri mPduUri{{
+    byte riêng tư [] mPduData;
     private final String mLocationUrl;
     private final PendingIntent mSentIntent;
 
