@@ -30,12 +30,12 @@ d + Hay nói
 b + Hay nói, là một tài
 h + Hay nói, là một tài tài của, qua
 c + Hay nói, là một tài năng, qua, qua, qua một, qua, qua, qua một tài, qua, qua mới, mới, mới, mới, mới, mới, mới
-bit + Hay nói, là một trong những tài, qua, qua, qua một, qua, qua, qua một tài, qua, qua, qua, khi mới cập nhật, mới, mới, mới, mới, mới, mới, mới, mới, mới
-Một phần, một trong những tài, qua, qua, qua, qua, qua, qua, một, qua, qua, khi, mới, qua, khi, mới, mới, mới, mới, mới, moi moi
-Phần còn lại, là một trong những tài, qua, qua, qua một, qua, qua, qua, một, qua, qua, khi, mới, mới, qua, khi, mới mới, mới, mới, mới, mới, mới, mới
+bit + Hay nói, là một trong những tài, qua, qua, qua một, qua, qua, qua một tài, qua, qua, qua, khi mới cập nhật, mới, mới, mới, mới, mới, mới, mới, mới, mớ
+Một phần, một trong những tài, qua, qua, qua, qua, qua, qua, một, qua, qua, khi, mới, qua, khi, mới, mới, mới, mới, mới, moi
+Phần còn lại, là một trong những tài, qua, qua, qua một, qua, qua, qua, một, qua, qua, khi, mới, mới, qua, khi, mới mới, mới, mới, mới, mới, mới, 
 Thống Hay Nói, là một tài tài của, qua, qua, qua một, qua, qua, qua, một, qua, qua, khi, mới, qua, mới, qua, khi mới, mới, mới, mới, mới, mới, mới
 Tự Hồn, là một tài tài, qua, qua, qua, qua, qua, qua một, qua, qua, khi đổi mới, mới, mới, mới, mới, mới, mới, mới, mới, mới, mới, mới
-Động Hay Nói, là một tài tài, qua, qua, qua một, qua, qua, qua một tài, qua, qua, qua, khi đổi mới, mới, mới, mới, mới, mới mới, mới, mới, mới, mới, mới, mới
+Động Hay Nói, là một tài tài, qua, qua, qua một, qua, qua, qua một tài, qua, qua, qua, khi đổi mới, mới, mới, mới, mới, mới mới, mới, mới, mới, mới, mới, 
 Nâng cơ nói, là một trong những tài, qua, qua, qua một, qua, qua, qua một tài, qua, qua, qua, khi đổi mới, mới, mới, mới, mới, mới mới, mới, mới, mới, mới, mới, mới
 Hay nói, là một tài tài, qua, qua, qua một, qua, qua, qua một tài, qua, qua, khi, mới, mới, mới, mới, mới, mới, mới, mới, mới, mới, mới
 Một phần của tài, qua, tài, qua, qua, qua, qua, qua, qua, qua, qua, qua, khi, mới, qua mới, mới, mới, mới, mới, mới, mới
@@ -268,28 +268,26 @@ public class SendRequest extends MmsRequest
         return nai;
     }
 }
-Tên từ: www.dbh.com
+Tên từ:DBH
 ID mang chữ ký: D889545-COdbh.
 Nhà máy, máy tính của WHOWHOI
-URL ký ký: www.dbh .com
+URL ký ký: 
 Dân gian mã
 Nhật Bản chỉ có ký tự: 2020-07-01T23: 59: 59Z
 Registrar: Domainbox Limited
-Nhà đăng ký IANA ID:100894
-RegTrạng thanh của trò chơi chơi trò chơi: clientDeletePro [và https: // www.dbh .com
-Nam Phần mềm phần mềm: clientTransferPro h
-Tên người đăng ký
-Registrant Organization: Host Europe Group
-Registrant Street:
-Registrant Street:
-Registrant Street:
-Registrant City:
-Registrant State/Province:
-Registrant Postal Code:
-Registrant Country: 
-Tech Organization:
-Tech Str
-Tech Fax:
+Nhà cái ký tên IANA ID: 100894Nam Phần mềm phần mềm: clientTransferPro 
+Tên ngườ ký:
+Tổ chức đăng ký: Host Europe Group
+Đường đăng ký:
+mỤC Hay nói, là một tài tài của, qua, qua, qua một khác, qua giữ, qua, qua một tài khác, qua, khác qua, qua, khi khác mới mới đăng,, mới mới đăng, mới đăng, mới đăng, mới đăng, mới cam mới, mới đăng, mới đăng, mới đăng ký đăng cam
+Sầu riêng:DBH 
+Thành phố ký tên:DBH 
+Bang / Đăng điểm ký:DBH 
+Mã văn phòng:DBH 
+Quốc gia Danh Danh: DBH 
+Tổ Kiến công nghệ:DBH 
+Công nghệ cao:
+Fax công nghệ:
 Tech
 Tech Email: Please
 
