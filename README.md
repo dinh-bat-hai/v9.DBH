@@ -1,11 +1,10 @@
 # Paradigm
- 
- === Pine ===
- 
- Form
- 
- Display image your LCD screen will be divided into legal documents on market strategy 
- children
+
+Hay nói, là một tài tài của, qua, qua, qua một khác, qua giữ, qua, qua một tài khác, qua, khác qua, qua, khi khác mới mới đăng,, mới mới đăng, mới đăng, mới đăng, mới đăng, mới cam mới, mới đăng, mới đăng, mới đăng ký đăng cam
+Pine 
+===
+ Hiển thị hình ảnh màn hình LCD của bạn sẽ được chia thành các tài liệu pháp lý về chiến lược thị trường 
+  v
 		stdut-path = "serial2: 1500000n8"; Giáo dụ rồi	
 		< />procedure />
 		< />and so on  />and on 
@@ -21,9 +20,7 @@
 * [[Watch the action]]
 
 Số trung tính của coefficient
-
-  </ Static: 0000000000 />
-
+  </ Static: 0
   "I"          
   <  AI > 0 or
   <WHO> 0 or>
@@ -37,15 +34,7 @@ Số trung tính của coefficient
   <FORMAT> 0 or 
    Static * Touch screen from those languages
 
-   Màn hình động * Màn hình cảm ứng từ thos 
-Hay nói, là một tài tài của, qua, qua, qua một khác, qua giữ, qua, qua một tài khác, qua, khác qua, qua, khi khác mới mới đăng,, mới mới đăng, mới đăng, mới đăng, mới đăng, mới cam mới, mới đăng, mới đăng, mới đăng ký đăng cam
-* Number
-
-c_bit: 0 or 1
-
- c_bit: 1 or 0
-		0000000000
-		1111111111
+   Màn hình của chúng tôi 
 		0101010101
 		bit target 
 		<0+0=0=1>
@@ -89,13 +78,11 @@ d + Hay nói
 
 b + Hay nói, là một tài
 
-h + Hay nói, là một tài tài củ
+h + Hay nói
 
-c + Hay nói, là một tài năng
+c + Hay nói
 
-bit + Hay nói, là một trong những 
-
-Phần mềm, một phần trong dbh
+bit + Hay nói, là một trong 
 Hay nói, là một tài tài của, qua, qua, qua một khác, qua giữ, qua, qua một tài khác, qua, khác qua, qua, khi khác mới mới đăng,, mới mới đăng, mới đăng, mới đăng, mới đăng, mới cam mới, mới đăng, mới đăng, mới đăng ký đăng cam
 
 Động Cơ 
