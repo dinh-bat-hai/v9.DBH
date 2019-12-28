@@ -239,10 +239,8 @@ public class SendRequest extends MmsRequest
                     mMmsConfig.getBoolean(SmsManager.MMS_CONFIG_SUPPORT_MMS_CONTENT_DISPOSITION);
             return new PduParser(mPduData, supportContentDisposition).parse();
         } catch (final Exception e) {
-            LogUtil.w(requestId, "Failed to parse PDU raw data");
-        }
+            LogUtil.w(requestId, "Failed to parse PDU raw data")
         return null;
-    }
     /**
      * If the MMS is being sent to an emergency number, the blocked number provider is notified
      * so that it can disable number blocking.
@@ -317,11 +315,7 @@ eturn telephonyManager.getLine1Number(subId);
                 nai = new String(encoded, "UTF-8");
             } catch (UnsupportedEncodingException e) {
                 nai = new String(encoded);
-            }
-        }
-        return nai;
-    }
-}
+
 
 Name 
 ===
@@ -369,8 +363,8 @@ DNSSEC: u
 Ba_html_dbh_ =bit+
 Bít mở rộng
 DBH Hay nói, là một trong trong tài liệu mới       [dfeq / qdew / dbh]
-  Cười mở miệng
-sff / Hay nói, là một tài tài, qua, qua, qua, qua, qua, qua, khi đổi mới, mới, mới, mới, mới, mới, mới, mới, mới, mới, v9.dbh;
+
+sff / Hay nói, là một tài tài, qua, qua, qua, qua, qua, qua, khi đổi mới, mới, mới, mới, mới, mới, mới, mới, mới, mới, v9.dbh
 
 
 Number of classification
